@@ -1,6 +1,6 @@
 # smash
 
 ls
-mkdir dir1
+mkdir dir
 
 
