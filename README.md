@@ -1,2 +1,6 @@
 # smash
-Update packages
+
+ls
+mkdir dir2
+
+
